@@ -1,8 +1,6 @@
 # Language setting
 language: node_js
 
-build_image: shippableimages/ubuntu1204_nodejs
-
 # Version number
 node_js:
   - 0.10
